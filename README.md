@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grownkidar
+- 👋 Hi, I’m @knight
 - 👀 I’m interested in web building
 - 🌱 I’m currently learning uyo
 - 💞️ I’m looking to collaborate on webdevelopment
